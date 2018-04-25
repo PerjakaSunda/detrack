@@ -1,0 +1,16 @@
+{
+  "name": "detrack",
+  "version": "1.0.0",
+  "description": "Track OS, Device, And Browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PerjakaSunda/detrack.git"
+  },
+  "homepage": "https://github.com/PerjakaSunda/detrack"
+}
