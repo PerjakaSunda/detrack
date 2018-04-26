@@ -14,4 +14,26 @@ npm install --save detrack
 import deTrack from 'detrack';
 
 console.log(deTrack())
+
+// Result :
+//
+// {
+//   os: {
+//     name: 'Win',
+//     version: 10
+//   },
+//   browser: {
+//     name: 'Chrome',
+//     version: '66'
+//   },
+//   screen: {
+//     width: 1024,
+//     height: 768
+//   },
+//   userAgent: 'User agent information',
+//   appVersion: 'App Version information',
+//   platform: 'Platform info',
+//   vendor: 'Google Inc'
+// }
+
 ```
